@@ -2,7 +2,7 @@
 
 - 依頼: yuuya（2026-10-17）「これまでの研究は一旦置いておいて、VLA の言語指示の無視に関する論文を本格的に調査してほしい」
 - 調査方法: Web 検索（arXiv、CVPR/ICLR/NeurIPS/CoRL のプロシーディング、プロジェクトページ、NVIDIA / Physical Intelligence の技術資料）。各論文の本文を読んで要点を抜き出した。本文の一部しか読めなかった論文は、その旨を各項に書いた。
-- 出発点: `research/vla_vs_lbm_2026-10-17.md` §5 の 6 本（OpenVLA-OFT、Knowledge Insulation、LangGap、Stable Language Guidance、Wulff & Cangelosi、IGAR）。本メモはそれを含めて約 45 本に広げた。**2026-10-22 の再調査（yuuya「他にも見逃してる論文がないかもう一度調査してほしい」）で約 25 本を追加し、§8 と §7 末尾にまとめた。** **2026-10-24 に yuuya の依頼で範囲を言語条件付き世界モデル（WM）・World-Action Model（WAM）へ広げ、約 35 本を §9 に追加した。**
+- 出発点: `research/vla_vs_lbm_2026-10-17.md` §5 の 6 本（OpenVLA-OFT、Knowledge Insulation、LangGap、Stable Language Guidance、Wulff & Cangelosi、IGAR）。本メモはそれを含めて約 45 本に広げた。**2026-10-22 の再調査（yuuya「他にも見逃してる論文がないかもう一度調査してほしい」）で約 25 本を追加し、§8 と §7 末尾にまとめた。** **2026-10-24 に yuuya の依頼で範囲を言語条件付き世界モデル（WM）・World-Action Model（WAM）へ広げ、約 35 本を §9 に追加した。** 2026-10-25 の新規性調査（`research/vla_language_ignoring_novelty_2026-10-25.md`）で未収録 22 本を見つけ、同メモ §5 に載せた。
 - 【推測】と書いた箇所は、論文に明記がなく私が補ったもの。
 
 ---
